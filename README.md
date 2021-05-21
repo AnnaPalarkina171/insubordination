@@ -19,18 +19,10 @@
   * what happens
   * threat
   * polite request
-  * polite discourse formulas
  * Не директивы
    * wish
+   * polite discourse formulas
 3. Не выражающие модальные значения
-
-<!-- 1. Диадически зависимые:
-2. 
-      2.   dyadic
-      1.2 dyadic clarification
-      1.3 dyadic complaint
-     2. Выражающие модальные значения:
- 
-      2.2 Не директивы
-            2.2.1  wish
- -->
+* dyadic
+*  dyadic clarification
+*  dyadic complaint
