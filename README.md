@@ -20,6 +20,8 @@
   * threat
   * polite request
   * polite discourse formulas
+ * Не директивы
+   * wish
 3. Не выражающие модальные значения
 
 <!-- 1. Диадически зависимые:
