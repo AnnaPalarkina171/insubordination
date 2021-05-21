@@ -7,12 +7,6 @@
 ####
 Аннотация расподчиненных конструкций в корпусе:
 
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
 1. Выражающие модальные значения
 * Директивы
   * offer
@@ -23,6 +17,6 @@
    * wish
    * polite discourse formulas
 3. Не выражающие модальные значения
-* dyadic
-*  dyadic clarification
-*  dyadic complaint
+  *  dyadic
+  *  dyadic clarification
+  *  dyadic complaint
