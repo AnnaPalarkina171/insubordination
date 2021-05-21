@@ -7,11 +7,11 @@
 ####
 Аннотация расподчиненных конструкций в корпусе:
 1. Выражающие модальные значения
-      ⋅⋅1.1 offer
-      ⋅⋅1.2 what happens
-      ⋅⋅1.3 threat
-      ⋅⋅1.4 polite request
-      ⋅⋅1.5 polite discourse formulas
+⋅⋅1.1 offer
+⋅⋅1.2 what happens
+⋅⋅1.3 threat
+⋅⋅1.4 polite request
+⋅⋅1.5 polite discourse formulas
 2. Не выражающие модальные значения
 
 
