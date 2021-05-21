@@ -6,15 +6,6 @@
 
 ####
 Аннотация расподчиненных конструкций в корпусе:
-1. Выражающие модальные значения
-⋅⋅⋅1.1 Директивы
-- offer
-- what happens
-- threat
-- polite request
-- polite discourse formulas
-
-3. Не выражающие модальные значения
 
 
 * Item 1
@@ -22,8 +13,14 @@
   * Item 2a
   * Item 2b
 
-
-
+1. Выражающие модальные значения
+* Директивы
+  * offer
+  * what happens
+  * threat
+  * polite request
+  * polite discourse formulas
+3. Не выражающие модальные значения
 
 <!-- 1. Диадически зависимые:
 2. 
