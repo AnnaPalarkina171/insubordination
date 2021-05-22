@@ -21,3 +21,4 @@
   *  dyadic
   *  dyadic clarification
   *  dyadic complaint
+![IM6MN8FK0h8](https://user-images.githubusercontent.com/31884615/119222966-9427df80-baff-11eb-97ad-0249c8a8671c.jpg)
