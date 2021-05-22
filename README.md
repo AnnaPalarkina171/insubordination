@@ -15,6 +15,7 @@
   * polite request
  * Не директивы
    * wish
+   * regret/unrealizable desire
    * polite discourse formulas
 3. Не выражающие модальные значения
   *  dyadic
