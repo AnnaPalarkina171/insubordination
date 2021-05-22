@@ -4,21 +4,5 @@
 #### Для более удобного просмотра корпуса в формате excel можно перейти по [вот этой ссылке](https://docs.google.com/spreadsheets/d/1cK4FIrm-TUd_zXS_ekeLvN_TTJQ7-Kr4ec_4be4ibWs/edit?usp=sharing). В итоговом корпусе расподчинительных конструкций получилось 1487 предложений, 74% из которых не несут никаких дискурсивных функций и используются в речи для детализации предыдущего контекста, 22% выражают модальные значения и 4% приходятся на ошибку синтаксического классификатора (это правильные сложноподчиненные предложения с предикатом или матричной клаузой и придаточной клаузой)
 
 
-####
-Аннотация расподчиненных конструкций в корпусе:
+![t9kQtO9YZYI](https://user-images.githubusercontent.com/31884615/119222993-b9b4e900-baff-11eb-9e19-6580ca0cf9a6.jpg)
 
-1. Выражающие модальные значения
-* Директивы
-  * offer
-  * what happens
-  * threat
-  * polite request
- * Не директивы
-   * wish
-   * regret/unrealizable desire
-   * polite discourse formulas
-3. Не выражающие модальные значения
-  *  dyadic
-  *  dyadic clarification
-  *  dyadic complaint
-![IM6MN8FK0h8](https://user-images.githubusercontent.com/31884615/119222966-9427df80-baff-11eb-97ad-0249c8a8671c.jpg)
